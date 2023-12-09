@@ -17,7 +17,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Xml;
 
-namespace Final {
+namespace IsaacModManager {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Xml;
 
-namespace Final {
+namespace IsaacModManager {
     internal class Mod : IComparable {
         private String id;
         private String name;
